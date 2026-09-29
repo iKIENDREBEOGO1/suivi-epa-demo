@@ -1,0 +1,16 @@
+# R session files
+.RData
+*.RData
+.Rhistory
+.Rproj.user/
+*.Rproj
+
+# Deployment credentials / metadata
+rsconnect/
+
+# Office lock files
+~$*
+
+# OS
+.DS_Store
+Thumbs.db
