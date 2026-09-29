@@ -38,7 +38,6 @@ phones to follow collection progress and send corrections back to enumerators.
 
 ## Screenshots
 
-<!-- Add screenshots to docs/screenshots/ and update the paths below -->
 
 | Login | Progress | Inconsistencies |
 |---|---|---|
